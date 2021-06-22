@@ -1,0 +1,55 @@
+Python 3.9.4 (tags/v3.9.4:1f2e308, Apr  6 2021, 13:40:21) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/HAI USER/AppData/Local/Programs/Python/python programs/day 9.py
+2
+4
+6
+8
+10
+12
+14
+54321
+5432
+543
+54
+5
+Enter the value of 'n': 22
+Fibonacci Series:  0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 0
+1
+153
+370
+371
+407
+The muliplication table of 9 :
+9 x 1 = 9
+9 x 2 = 18
+9 x 3 = 27
+9 x 4 = 36
+9 x 5 = 45
+9 x 6 = 54
+9 x 7 = 63
+9 x 8 = 72
+9 x 9 = 81
+9 x 10 = 90
+Enter a number: 2
+Positive number
+Enter the days:
+2201
+6  Year,  1  Weeks, and  10  Days
+
+Enter the number: 35
+sin(x)= -0.428182669496151
+cos(x)= -0.9036922050915067
+tan(x)= 0.47381472041445105
+(sin(x)+cos(x))/tan(x)= -2.8109613678162044
+Calculator
+1.Add
+2.Substract
+3.Multiply
+4.Divide
+Enter the Choice(1-4): 2
+Enter A:23
+Enter B:22
+Difference =  1
+>>> 
