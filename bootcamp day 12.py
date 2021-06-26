@@ -1,0 +1,10 @@
+
+a = open("30days30houroperations.txt","w+")
+a.write("I have completed 10 days Successfully")
+a.close()
+a = open("30days30houroperations.txt","a")
+a.write("Swetha")
+a.close()
+a= open("30days30houroperations.txt","r+")
+print(a.read())
+a.close()
